@@ -8,7 +8,7 @@
       </py-env>
     </head>
   <body>
-    <h1>Let's plot random numbers</h1>
+    <h1>Mari kita coba</h1>
     <div id="plot"></div>
     <py-script output="plot">
       import matplotlib.pyplot as plt
